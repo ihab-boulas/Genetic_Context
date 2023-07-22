@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Boulas
+    given-names: Ihab
+    orcid: https://orcid.org/0009-0001-7213-9234
+title: ihab-boulas/Genetic_Context: v1.0.0
+version: gnctx
+date-released: 2023-07-22
